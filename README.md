@@ -13,7 +13,7 @@ Task.me is a simple application designed for managing tasks and tracking their p
 
 ### Technologies Used
 
-- Frontend: React js
+- Frontend: React-native
 - Backend: ....
 - Database: ....
 
@@ -27,7 +27,7 @@ Task.me is a simple application designed for managing tasks and tracking their p
 ### Folder Structure
 
 - `backend` ....
-- `frontend` folder contains the React js code for the frontend application
+- `frontend` folder contains the React-native code for the frontend application
 - `database` ....
 
 
